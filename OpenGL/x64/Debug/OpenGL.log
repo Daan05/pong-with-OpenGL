@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Gebruiker\source\repos\C++\openGL\proj 2\pong\OpenGL\main.cpp(27,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Gebruiker\source\repos\C++\openGL\proj 2\pong\OpenGL\main.cpp(31,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Gebruiker\source\repos\C++\openGL\proj 2\pong\OpenGL\main.cpp(287,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gebruiker\source\repos\C++\openGL\proj 2\pong\OpenGL\main.cpp(288,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gebruiker\source\repos\C++\openGL\proj 2\pong\OpenGL\main.cpp(298,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gebruiker\source\repos\C++\openGL\proj 2\pong\OpenGL\main.cpp(300,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gebruiker\source\repos\C++\openGL\proj 2\pong\OpenGL\main.cpp(301,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gebruiker\source\repos\C++\openGL\proj 2\pong\OpenGL\main.cpp(306,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gebruiker\source\repos\C++\openGL\proj 2\pong\OpenGL\main.cpp(308,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gebruiker\source\repos\C++\openGL\proj 2\pong\OpenGL\main.cpp(309,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gebruiker\source\repos\C++\openGL\proj 2\pong\OpenGL\main.cpp(343,24): warning C4305: '+=': truncation from 'double' to 'float'
+  OpenGL.vcxproj -> C:\Users\Gebruiker\source\repos\C++\openGL\proj 2\pong\x64\Debug\OpenGL.exe
