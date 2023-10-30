@@ -11,3 +11,8 @@
  the game stops when one player has 5 points, but you can reset the game by pressing r (this can also be done mid game)
 
  have fun!
+
+
+// sometimes fps is set to 60 by glfw???
+// not on all devices
+// need to add delta time
