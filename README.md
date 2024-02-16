@@ -1,6 +1,7 @@
 
 # pong
  Pong with OpenGL used for the rendering
+ Also my first project with OpenGL..
 
  player1 - red
  goes up and down with w & s
